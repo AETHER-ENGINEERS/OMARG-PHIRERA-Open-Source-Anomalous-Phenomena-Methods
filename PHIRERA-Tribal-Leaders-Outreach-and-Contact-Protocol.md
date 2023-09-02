@@ -1,4 +1,4 @@
-# OMARG PHIRERA Tribal Leader Outreach and Contact Protocol
+# OMARG PHIRERA Tribal Leaders Outreach and Contact Protocol
 
 ## Introduction
 This document outlines the respectful and ethical guidelines for initiating contact with tribal leaders and members for the purpose of gathering historical and cultural insights into anomalous phenomena.
