@@ -26,3 +26,8 @@ Our approach to defining and categorizing threats is both comprehensive and nuan
 2. *Physical Barriers*: Erect fencing, signage, or other forms of containment and warning.
 3. *Shielding or Countermeasures*: Implement technology or methods to counteract or mitigate the harmful effects.
 4. *Public Exposure and Accountability*: If diplomatic methods fail, expose the threat to the public, hold those responsible accountable, and shut it down.
+
+
+#### Void Gate Threat Response
+Follow the instructions in the training video entitled SealingTheGates.mp4 on this repository or on youtube.
+https://youtu.be/oT34MDju5dc?si=L0ayoNHPOz_TNj_d
